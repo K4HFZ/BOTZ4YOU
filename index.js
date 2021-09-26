@@ -102,8 +102,8 @@ cmd_stc_ping = '7292'
 var nomor_ovo = `083127014833\nkahfi` //gk usah di ubah ya klo gk punya ntr eror
 var nomor_dana = `083127014833\nkahfz` //gk usah di ubah ya klo gk punya ntr eror
 var nomor_gopay = `083127014833\nkahfz` //gk usah di ubah ya klo gk punya ntr eror
-var qr_code_ovo = 'https://d.top4top.io/p_2094upxp19.jpg' //gk usah di ubah ya klo gk punya ntr eror
-var qr_code_dana = 'https://d.top4top.io/p_2094upxp19.jpg' //gk usah di ubah ya klo gk punya ntr eror
+var qr_code_ovo = 'https://a.top4top.io/p_2094biz6o9.jpg' //gk usah di ubah ya klo gk punya ntr eror
+var qr_code_dana = 'https://l.top4top.io/p_2094y1nsa8.jpg' //gk usah di ubah ya klo gk punya ntr eror
 var qr_code_gopay = 'https://d.top4top.io/p_2094upxp19.jpg' //gk usah di ubah ya klo gk punya ntr eror
 //untuk sewa bot jika ada yg minat
 var _minggu = 'Rp 10.000,00' //Masukkan harga sewa sesuai keinginan
